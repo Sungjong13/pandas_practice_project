@@ -1,0 +1,13 @@
+- changing stats through level up
+    - poke gain stat proportionate to base stat, individual value, effort value, and nature.
+- stage stat change
+    - skills and items that change stage, probably will make list or dic
+- item
+    - very complicated,,
+- recoil damage
+    - certain skills have different recoil damage.
+- tag game
+    - will include 6 poke, choose 3, then battle
+- weather
+- status effects
+    - like poison, burn, paralyzed etc

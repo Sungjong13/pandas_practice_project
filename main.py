@@ -1,3 +1,6 @@
+import pandas as pd
+import random
+
 class poke:
     def __init__(self,pokeseries,movelist):
         self.poke=pokeseries
