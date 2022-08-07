@@ -1,5 +1,6 @@
 import pandas as pd
 import random
+from poke_database import *
 
 class poke:
     def __init__(self,pokeseries,movelist):
